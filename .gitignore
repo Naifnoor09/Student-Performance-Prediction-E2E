@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints (if you used notebooks)
+.ipynb_checkpoints/
+
+# Models (optional if you don’t want large files in repo)
+model/*.joblib
+model/*.pkl
+
+# Streamlit cache (optional)
+.streamlit/
+
+# Docker (optional)
+*.dockerfile
+docker-compose.override.yml
