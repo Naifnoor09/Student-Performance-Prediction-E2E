@@ -115,5 +115,4 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Md Naif** — BSc Data Science Student  
-Building towards a career in Agentic AI Engineering 🚀
+**Mohammad Naif** — Cool Data Science Undergrad Student  
